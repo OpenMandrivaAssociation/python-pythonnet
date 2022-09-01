@@ -22,4 +22,4 @@ BuildRequires:  mono
 %install
 %py_install
 
-%files %{python_files}
+%files
